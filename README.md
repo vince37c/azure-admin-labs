@@ -6,6 +6,9 @@ A hands-on Azure Administrator lab repository documenting the creation and confi
 This repository captures practical exercises used to build familiarity with Azure administration tasks including resource management, networking, identity, storage, and monitoring.
 
 Each lab includes:
+- Objective
+- Resources Created
+- Prerequisites
 - Build steps
 - Validation
 - Screenshots
