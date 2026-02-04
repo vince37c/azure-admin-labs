@@ -16,6 +16,9 @@ Each lab includes:
 | Lab | Description |
 |-----|------------|
 | 01 | Resource Groups |
+| 02 | Virtual Machine |
+| 03 | Network Security Group |
+| 04 | Azure Budget + Cost Alerts |
 
 ## Standards
 
